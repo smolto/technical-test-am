@@ -1,0 +1,86 @@
+[
+  {
+  	"name": "Camiseta 1ª Levante UD 2024/2025",
+  	"brand": "Macron"
+  	"price": 74.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/249024_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Valencia CF 2024/2025",
+  	"brand": "Puma"
+  	"price": 69.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/246998_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Sevilla FC 2024/2025",
+  	"brand": "Castore"
+  	"price": 89.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/248572_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Real Betis 2024/2025",
+  	"brand": "Hummel"
+  	"price": 69.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/248032_1_v2.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Real Madrid 2024/2025",
+  	"brand": "Adidas"
+  	"price": 119.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/243776_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª FC Barcelona 2024/2025",
+  	"brand": "Nike"
+  	"price": 119.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/246735_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Athletic Club 2024/2025",
+  	"brand": "Castore"
+  	"price": 65.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/248231_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Liverpool FC 2024/2025",
+  	"brand": "Nike"
+  	"price": 94.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/246021_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Real Valladolid 2024/2025",
+  	"brand": "Kappa"
+  	"price": 50.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/249078_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Hércules CF 2024/2025",
+  	"brand": "Kappa"
+  	"price": 79.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/249022_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Al-Nassr FC 2024/2025",
+  	"brand": "Adidas"
+  	"price": 89.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/248142_1.webp"
+  },
+  {
+  	"name": "Camiseta 1ª Inter Miami CF 2024/2025",
+  	"brand": "Adidas"
+  	"price": 89.95,
+  	"sizes": ["S", "M", "L", "XL"],
+  	"img": "https://static.futbolfactory.es/products/242723_1.webp"
+  },
+]
